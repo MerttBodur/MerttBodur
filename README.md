@@ -12,9 +12,10 @@ development environment. I regularly apply my knowledge through
 practical work, and my GitHub includes several projects that demonstrate
 my ability to build and structure real applications.Also I am actively learning
 Python to gain knowledge about Machine Learning, Large Language
-Models, Data Science and backend programming. I am highly motivated to
-continue strengthening my software engineering and problem-solving skills
-while contributing to real-world projects. I’m also interested in video games.
+Models, Data Science and backend programming and Unreal Engine to broaden 
+my skill set in game development. I am highly motivated to
+continue strengthening my software engineering and game development skills
+while contributing to real-world projects.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/MerttBodur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MerttBodur" height="30" width="40" /></a>
@@ -22,5 +23,5 @@ while contributing to real-world projects. I’m also interested in video games.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="40" /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" width="40" /> </a></p> 
 
