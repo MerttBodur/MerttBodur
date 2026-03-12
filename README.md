@@ -10,9 +10,8 @@
   - App Development
 
 - Daily routines:
-  - CodeWars
-  - LeetCode
-  - Developing a mobile gym app project
+  - CodeWars, LeetCode for practice my own coding skills
+  - Actively learning Python for Data Analysis and ML (10.03 - ...)
   - Doing Sports :)
 
 
