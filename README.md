@@ -1,76 +1,54 @@
-# Hi, I'm Mert Bodur 👋
+# Hi, I'm Mert Bodur
 
-**Computer Engineering (Science)** student (2nd year) at **Bahcesehir University** — Beşiktaş, Istanbul.  
-I’m a computer engineering student, comfortable with **C# and Python**, currently learning **Data Science / Machine Learning** with **Python + SQL** and **App Development** with **Java**.
-
----
-
-## Interests
-- Software Development & Problem Solving
-- Data Science
-- AI (Implementing to games, ML)
-- Game Development (Unity)
-- App Development (Java)
-  
-
----
-
-## What I’m doing currently
-- Actively learning **App Development with Java** academically
-- Practicing problem solving on **LeetCode / CodeWars** (DSA fundamentals)
-- Actively learning **Python for Data Analysis & ML** and improving **SQL**
-- Staying consistent with sports and discipline
-
----
-
-## Skills
-- **C++** — Good Understanding of Data Structures and Algorithms.
-- **C#** — OOP level
-- **Python** — OOP level (and actively using for DS/ML learning)
-- **SQL** — Basic 
-- **Java** — Basic
-
----
-
-## Languages and Tools
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40"/>
-  </a>
-</p>
+Computer Engineering student at **Bahçeşehir University (BAU)** with a strong focus on programming and software development.
+I’m most comfortable with **C++** (DSA + STL) and actively improving **C#** with an interest in **backend development**.
+I’m also building fundamentals in **Python**, **SQL**, and **AI/ML**.
 
 ---
 
 ## Projects
 
-- **C++ Project #1:** *https://github.com/MerttBodur/TripAnalyzer*
-- **C++ Project #2:** *https://github.com/MerttBodur/Bank-ATM-System*
-- **C++ Project #3:** *https://github.com/MerttBodur/MiniPhysicsEngine*
-- **Shifty Jumper (Unity / C#):** *https://github.com/MerttBodur/Shifty-Jumper*
+### AI-Finance-Assistant (Bi-Thongo Web3 Hackathon • Apr 2026)
+- Built a policy-controlled **autonomous Web3 investment assistant** that generates real-time investment decisions via OpenAI/OpenAPI.
+- Implemented a **Vault smart contract (Solidity)** enforcing on-chain rules (e.g., `maxSingleInvestment`, `monthlyLimit`, `minReserve`).
+- Developed a backend executor with a **Node.js cron job** that fetches recommendations every 2 minutes and triggers `autoInvest` on-chain.
+- Built a **MetaMask-connected dashboard** with **Next.js 14**, **wagmi**, and **RainbowKit** (balance tracking, policy management, transaction history).
+- Designed risk profiles (**LOW / MED / HIGH**) with allocations across **USDC, BTC, ETH, SOL**.
+- Tech stack: **Solidity**, **Hardhat**, **OpenZeppelin**, **Next.js 14**, **TypeScript**, **Node.js**, **OpenAI API**, **Base Sepolia**, **Claude Code**, **GenAI**.
+- Repo: https://github.com/MerttBodur/AI-Finance-Assistant
+
+### FreakLete (Mar 2026 – Present)
+- Building a cross-platform mobile performance tracking app for athletes (workout logging, performance tracking, movement goals, profile management).
+- Designed and developed the mobile app + backend end-to-end.
+- Implemented **JWT-based authentication**, **PostgreSQL** persistence, secure session handling, and production deployment.
+- Worked on Android release packaging with signed **AAB** builds.
+- Tech stack: **.NET MAUI**, **C#**, **XAML**, **ASP.NET Core Web API**, **EF Core**, **PostgreSQL**, **JWT**, **Docker**, **xUnit**, **Railway**, **Git/GitHub**.
+- Repo: https://github.com/MerttBodur/FreakLete
+
+### Shifty Jumper (Unity • Feb 2026)
+- Developed a 2-level **2D platformer** to practice Unity fundamentals and C# scripting.
+- Implemented player movement/jumping, collision-based interactions, coin collection, hazards, respawn, and level progression.
+- Built UI (HUD, Main Menu, Pause Menu) and used Animator state transitions.
+- Tools/tech: **Unity**, **C#**, **Tilemap/Tile Palette**, **Rigidbody/Colliders**, **TMPro**, **SceneManagement**.
+- Repo: https://github.com/MerttBodur/Shifty-Jumper
 
 ---
 
-## Connect with me
-<p align="left">
-  <a href="https://github.com/MerttBodur" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub: MerttBodur" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/mert-bodur-08a053285/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: mert-bodur-08a053285" height="30" width="40" />
-  </a>
-</p>
+## Skills / Tech Stack
+
+**Languages:** C++ (most comfortable), C#, Python, Java, JavaScript (fundamentals), HTML/XML (fundamentals)
+
+**Frameworks & Platforms:** .NET MAUI, ASP.NET Core, Entity Framework Core, Android SDK, Unity
+
+**Web3 / Blockchain:** Solidity, Hardhat, OpenZeppelin, wagmi, RainbowKit
+
+**Databases & Tools:** PostgreSQL, SQL, Git, GitHub, Visual Studio, VS Code, PyCharm, DataGrip
+
+**Interests:** Backend development, AI/ML, data science, game development
+
+---
+
+## Contact
+
+- GitHub: https://github.com/MerttBodur
+- LinkedIn: https://www.linkedin.com/in/mert-bodur-08a053285/
