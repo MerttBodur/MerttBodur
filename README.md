@@ -20,8 +20,6 @@ I’m also building fundamentals in **Python**, **AI**, **JavaScript**.
 ### FreakLete (Mar 2026 – Present)
 - Building a cross-platform mobile performance tracking app for athletes (workout logging, performance tracking, movement goals, profile management).
 - Designed and developed the mobile app + backend end-to-end.
-- Implemented **JWT-based authentication**, **PostgreSQL** persistence, secure session handling, and production deployment.
-- Worked on Android release packaging with signed **AAB** builds.
 - Tech stack: **.NET MAUI**, **C#**, **XAML**, **ASP.NET Core Web API**, **EF Core**, **PostgreSQL**, **JWT**, **Docker**, **xUnit**, **Railway**, **Git/GitHub**.
 - Repo: https://github.com/MerttBodur/FreakLete
 
