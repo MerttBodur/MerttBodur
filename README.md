@@ -2,7 +2,7 @@
 
 Computer Engineering student at **Bahçeşehir University (BAU)** with a strong focus on programming and software development.
 I’m most comfortable with **C++** (DSA + STL) and actively improving **C#** with an interest in **backend development**.
-I’m also building fundamentals in **Python**, **SQL**, and **AI/ML**.
+I’m also building fundamentals in **Python**, **AI**, **JavaScript**.
 
 ---
 
@@ -44,7 +44,7 @@ I’m also building fundamentals in **Python**, **SQL**, and **AI/ML**.
 
 **Databases & Tools:** PostgreSQL, SQL, Git, GitHub, Visual Studio, VS Code, PyCharm, DataGrip
 
-**Interests:** Backend development, AI/ML, data science, game development
+**Interests:** Software Development, Backend development, AI/ML, data science, game development
 
 ---
 
